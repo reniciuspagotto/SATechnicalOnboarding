@@ -45,3 +45,8 @@ ul {
     list-style-type: square;
     padding-left: 1.4em;
 }
+
+.person-image {
+    width: 90px;
+    margin-top: 10px;
+}
